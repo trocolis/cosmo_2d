@@ -1,5 +1,7 @@
 # Cosmo 2D
 
+> **Nota:** este repositório é a continuação de [brunotrocolis/cosmo_2d](https://github.com/brunotrocolis/cosmo_2d), da minha conta antiga do GitHub, à qual perdi o acesso. O histórico completo foi preservado.
+
 Engine TypeScript para criação de jogos 2D em canvas para navegadores.
 
 ## Requisitos
